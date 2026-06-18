@@ -1,1 +1,1 @@
-# 150110059.github.io
+This application does not collect or share any personal data.
